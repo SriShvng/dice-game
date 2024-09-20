@@ -3,7 +3,7 @@
 This project is a simple two-player dice game built using JavaScript, HTML, and CSS.
 
 ## Live Demo
-You can play the game here: [Dice Game](https://dice-game-jmpsbvqyx-shvngsris-projects.vercel.app/)
+You can play the game here: [Dice Game](https://dice-game-nine-indol.vercel.app/)
 
 ## Game Rules
 - Players take turns rolling a six-sided die.
